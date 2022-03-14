@@ -14,7 +14,7 @@
 
 ## Projects & Dependencies
 
-+ Install and run [Azure Cosmos Emulator](http://localhost/)
++ Install and run [Azure Cosmos Emulator](https://aka.ms/cosmosdb-emulator)
 + Multiple startp projects:
   + Jobsity.Chatbot.API :16080 
   + Jobsity.Chatbot.WEB :11040
